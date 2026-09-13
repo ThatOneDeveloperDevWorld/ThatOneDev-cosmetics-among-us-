@@ -4,4 +4,8 @@ thatonedev cosmetics is a small mod/plugin for corsac cosmetics for among us tha
 # hats
 
 ![cosmetic1](piphat.png)
+![cosmetic2](devworld.png)
 
+# visors
+
+![cosmetic1](defaultvisor.png)
