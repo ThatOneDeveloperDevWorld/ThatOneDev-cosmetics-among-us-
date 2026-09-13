@@ -1,6 +1,7 @@
 # cosmetics
 thatonedev cosmetics is a small mod/plugin for corsac cosmetics for among us that adds new hats and visors(visors are broken kinda), but it only works in modded regions (like modded NA(MNA) or others)
 
-# screenshots
+# hats
 
-screenshothats.png
+![cosmetic1](piphat.png)
+
